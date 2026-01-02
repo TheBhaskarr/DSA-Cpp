@@ -29,3 +29,19 @@ implemented in **C++** for interview preparation.
 
 ## 📂 File Structure
 
+## 🔹 Product of Array Except Self
+
+**Problem:**  
+Return an array where each element is the product of all elements except itself.
+
+**Approach:**  
+- Prefix product to store product of elements before index  
+- Suffix product to multiply elements after index  
+- Division is not used
+
+**Complexity:**  
+- Time: `O(n)`
+- Space: `O(1)` (excluding output array)
+
+**File:**  
+`Product_of_Array_Except_Self.cpp`
