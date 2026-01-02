@@ -8,6 +8,7 @@ implemented in **C++** for interview preparation.
 ## 📌 Concepts Covered
 - Traversal
 - Prefix Sum
+- Prefix & Suffix Product
 - Hashing
 - Two Pointer Technique
 - Sliding Window
@@ -19,7 +20,10 @@ implemented in **C++** for interview preparation.
 
 | No. | Problem Name | Approach | Time | Space |
 |----|--------------|----------|------|-------|
-| 1 | Two Sum | Hashing (Map) | O(n log n) | O(n) |
+| 1 | Two Sum | Hashing (Map) | O(n) | O(n) |
+| 2 | Product of Array Except Self | Prefix & Suffix Product | O(n) | O(1)* |
+
+\* Space complexity excludes the output array.
 
 ---
 
