@@ -1,6 +1,14 @@
 # Binary Search (DSA in C++)
 
-This folder contains Binary Search based problems solved in C++.
+This folder contains **Binary Search based problems** implemented in **C++**
+for interview preparation.
+
+---
+
+## 📌 Concepts Covered
+- Binary Search Basics
+- Search in Rotated Sorted Array
+- Modified Binary Search
 
 ---
 
@@ -9,3 +17,5 @@ This folder contains Binary Search based problems solved in C++.
 | No. | Problem Name | Approach | Time | Space |
 |----|--------------|----------|------|-------|
 | 1 | Search in Rotated Sorted Array | Modified Binary Search | O(log n) | O(1) |
+
+---
