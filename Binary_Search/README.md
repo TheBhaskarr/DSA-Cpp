@@ -8,7 +8,7 @@ for interview preparation.
 ## 📌 Concepts Covered
 - Binary Search Basics
 - Search in Rotated Sorted Array
-- Modified Binary Search 
+- Modified Binary Search
 
 ---
 
