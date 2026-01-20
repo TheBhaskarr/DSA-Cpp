@@ -7,7 +7,7 @@ implemented in **C++** for interview preparation.
 
 ## 📌 Concepts Covered
 - Traversal
-- Prefix Sum
+- Prefix Sum 
 - Prefix & Suffix Product
 - Hashing
 - Two Pointer Technique
