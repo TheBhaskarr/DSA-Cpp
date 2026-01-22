@@ -22,7 +22,7 @@ implemented in **C++** for interview preparation.
 |----|--------------|----------|------|-------|
 | 1 | Two Sum | Hashing (Map) | O(n) | O(n) |
 | 2 | Product of Array Except Self | Prefix & Suffix Product | O(n) | O(1)* |
-| 3 | Search in Rotated Sorted Array | Binary Search | O(log n) | O(1) |
+| 3 | Container With Most Water | Two Pointer | O(n) | O(1) |
 
 
 \* Space complexity excludes the output array.
