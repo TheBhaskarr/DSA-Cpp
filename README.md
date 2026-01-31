@@ -8,7 +8,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 ---
 
 ### 🔹 Sections
-- [About This Repo](#introduction-)
+- [Introduction](#introduction-)
 - [Solved Problems](#solved-problems-)
 
 ---
@@ -43,15 +43,7 @@ Each solution is written with a focus on:
 This repository is part of my continuous effort to strengthen **DSA fundamentals** and prepare for **software engineering interviews**.
 
 ---
-## About This Repo
 
-This repository contains my **Data Structures & Algorithms (DSA) practice** implemented in **C++**.
-
-The goal of this series is to:
-- Build strong problem-solving skills
-- Practice DSA concepts consistently
-- Prepare for coding interviews
----
 
 ### 🔗 Topics Covered So Far
 - Arrays
