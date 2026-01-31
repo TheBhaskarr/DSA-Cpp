@@ -8,8 +8,8 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 ---
 
 ### 🔹 Sections
-- [About This Repo 📝](#introduction-)
-- [Solved Problems 💡](#solved-problems-)
+- [About This Repo](#introduction-)
+- [Solved Problems](#solved-problems-)
 
 ---
 
