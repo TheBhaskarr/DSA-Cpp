@@ -8,7 +8,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 ---
 
 ### 🔹 Sections
-- [Introduction 📝](#introduction-)
+- [About This Repo 📝](#introduction-)
 - [Solved Problems 💡](#solved-problems-)
 
 ---
