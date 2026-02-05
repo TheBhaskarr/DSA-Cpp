@@ -22,7 +22,8 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 3:** [Container With Most Water](Arrays/Container_With_Most_Water.cpp) 🚰📐🔢  
 - **Day 4:** [Search in Rotated Sorted Array](Binary_Search/Search_in_Rotated_Sorted_Array.cpp) 🔍🔄📐  
 - **Day 5:** [Peak Index in a Mountain Array](Binary_Search/Peak_Index_in_a_Mountain_Array.cpp) 🌄🔝⛰️  
-- **Day 6:** [Single Element in a Sorted Array](Binary_Search/Single_Element_in_a_Sorted_Array.cpp) 🔢📊🔍  
+- **Day 6:** [Single Element in a Sorted Array](Binary_Search/Single_Element_in_a_Sorted_Array.cpp) 🔢📊🔍
+- **Day 7:** [Aggressive Cows](Binary_Search/Aggressive_Cows.cpp) 🐄📏
 
 
 ---
