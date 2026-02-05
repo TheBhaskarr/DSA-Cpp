@@ -19,6 +19,7 @@ for interview preparation.
 | 1 | Search in Rotated Sorted Array | Modified Binary Search | O(log n) | O(1) |
 | 2 | Peak Index in a Mountain Array | Binary Search (Peak Finding) | O(log n) | O(1) |
 | 3 | Single Element in a Sorted Array | Binary Search (Index Parity) | O(log n) | O(1) |
+| 4 | Aggressive Cows | Binary Search on Answer | O(n log n) | O(1) |
 
 
 
