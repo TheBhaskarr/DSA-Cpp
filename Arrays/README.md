@@ -5,7 +5,7 @@ implemented in **C++** for interview preparation.
 
 ---
 
-## 📌 Concepts Covered
+## Concepts Covered
 - Traversal
 - Prefix Sum 
 - Prefix & Suffix Product
@@ -16,7 +16,7 @@ implemented in **C++** for interview preparation.
 
 ---
 
-## 🧩 Problems Solved
+## Problems Solved
 
 | No. | Problem Name | Approach | Time | Space |
 |----|--------------|----------|------|-------|
