@@ -7,7 +7,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 
 ---
 
-### 🧭 Repository Guide
+### Repository Guide
 - [Introduction](#introduction)
 - [Solved Problems](#solved-problems)
 
@@ -47,7 +47,7 @@ This repository is part of my continuous effort to strengthen **DSA fundamentals
 
 ---
 
-## 🔗 Topics Covered So Far
+## Topics Covered So Far
 
 - Arrays  
 - Two Pointer Technique  
