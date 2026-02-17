@@ -25,6 +25,7 @@ implemented in **C++** for interview preparation.
 | 3 | Container With Most Water | Two Pointer | O(n) | O(1) |
 | 4 | Sort Colors | Dutch National Flag Algorithm | O(n) | O(1) |
 | 5 | Merge Sorted Array | Two Pointer | O(m+n) | O(1) |
+| 6 | Next Permutation | Array + Two Pointer | O(n) | O(1) |
 
 
 \* Space complexity excludes the output array.
