@@ -35,9 +35,11 @@ implemented in **C++** for interview preparation.
 
 ## File Structure
 Arrays/
+```
 ├── Two_Sum.cpp
 ├── Product_of_Array_Except_Self.cpp
 ├── Container_With_Most_Water.cpp
 ├── Sort_Colors.cpp
 ├── Merge_Sorted_Array.cpp
 ├── Next_Permutation.cpp
+```
