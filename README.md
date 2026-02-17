@@ -25,7 +25,8 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 6:** [Single Element in a Sorted Array](Binary_Search/Single_Element_in_a_Sorted_Array.cpp) 
 - **Day 7:** [Aggressive Cows](Binary_Search/Aggressive_Cows.cpp) 
 - **Day 8:** [Sort Colors](Arrays/Sort_Colors.cpp)
-- **Day 9:** [Merge Sorted Array](Arrays/Merge_Sorted_Array.cpp) 
+- **Day 9:** [Merge Sorted Array](Arrays/Merge_Sorted_Array.cpp)
+- **Day 10:** [Next Permutation](Arrays/Next_Permutation.cpp) 
 
 ---
 
