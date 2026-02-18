@@ -56,7 +56,8 @@ This repository is part of my continuous effort to strengthen **DSA fundamentals
 - Two Pointer Technique  
 - Prefix & Suffix Technique  
 - Binary Search  
-- Modified Binary Search  
+- Modified Binary Search
+- Bit Manipulation  
 
 ---
 
