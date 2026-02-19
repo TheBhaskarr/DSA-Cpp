@@ -18,7 +18,7 @@ implemented in **C++** for interview preparation.
 | No. | Problem Name | Approach | Time | Space |
 |----|--------------|----------|------|-------|
 | 1 | [Reverse String](Reverse_String.cpp) | Two Pointer | O(n) | O(1) |
-| 2 | Remove All Occurrences of a Substring | String Manipulation | O(n*m) | O(1) |
+| 2 | [Remove All Occurrences of a Substring](Remove_All_Occurrences_of_a_Substring.cpp) | String Manipulation | O(n*m) | O(1) |
 
 ---
 
