@@ -28,6 +28,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 9:** [Merge Sorted Array](Arrays/Merge_Sorted_Array.cpp)
 - **Day 10:** [Next Permutation](Arrays/Next_Permutation.cpp)
 - **Day 11:** [Binary Number with Alternating Bits](Bit_Manipulation/Binary_Number_with_Alternating_Bits.cpp)
+- **Day 12:** [Reverse String](Strings/Reverse_String.cpp) 
 
 ---
 
