@@ -19,6 +19,7 @@ implemented in **C++** for interview preparation.
 |----|--------------|----------|------|-------|
 | 1 | [Reverse String](Reverse_String.cpp) | Two Pointer | O(n) | O(1) |
 | 2 | [Remove All Occurrences of a Substring](Remove_All_Occurrences_of_a_Substring.cpp) | String Manipulation | O(n*m) | O(1) |
+| 3 | [Permutation in String](Permutation_in_String.cpp) | Frequency Count | O(n*26) | O(1) |
 
 ---
 
