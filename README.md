@@ -7,7 +7,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 
 ---
 
-### Repository Guide
+### Repository Guide  
 - [Introduction](#introduction)
 - [Solved Problems](#solved-problems)
 
