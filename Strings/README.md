@@ -21,6 +21,7 @@ implemented in **C++** for interview preparation.
 | 2 | [Remove All Occurrences of a Substring](Remove_All_Occurrences_of_a_Substring.cpp) | String Manipulation | O(n*m) | O(1) |
 | 3 | [Permutation in String](Permutation_in_String.cpp) | Frequency Count | O(n*26) | O(1) |
 | 4 | [Reverse Words in a String](Reverse_Words_in_a_String.cpp) | String Manipulation | O(n) | O(1) |
+| 5 | [String Compression](String_Compression.cpp) | Two Pointer | O(n) | O(1) |
 
 ---
 
