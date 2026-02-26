@@ -32,7 +32,8 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 13:** [Remove All Occurrences of a Substring](Strings/Remove_All_Occurrences_of_a_Substring.cpp)
 - **Day 14:** [Permutation in String](Strings/Permutation_in_String.cpp)
 - **Day 15:** [Reverse Words in a String](Strings/Reverse_Words_in_a_String.cpp)
-- **Day 16:** [String Compression](Strings/String_Compression.cpp) 
+- **Day 16:** [String Compression](Strings/String_Compression.cpp)
+- **Day 17:** [Count Primes](Math/Count_Primes.cpp) 
 
 ---
 
