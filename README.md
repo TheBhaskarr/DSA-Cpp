@@ -63,7 +63,10 @@ This repository is part of my continuous effort to strengthen **DSA fundamentals
 - Prefix & Suffix Technique  
 - Binary Search  
 - Modified Binary Search
-- Bit Manipulation  
+- Bit Manipulation
+- Math
+- Number Theory
+- Sieve Algorithm
 
 ---
 
