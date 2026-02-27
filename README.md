@@ -33,7 +33,8 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 14:** [Permutation in String](Strings/Permutation_in_String.cpp)
 - **Day 15:** [Reverse Words in a String](Strings/Reverse_Words_in_a_String.cpp)
 - **Day 16:** [String Compression](Strings/String_Compression.cpp)
-- **Day 17:** [Count Primes](maths/Count_Primes.cpp) 
+- **Day 17:** [Count Primes](maths/Count_Primes.cpp)
+- **Day 18:** [First Missing Positive](Arrays/First_Missing_Positive.cpp) 
 
 ---
 
