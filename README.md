@@ -13,7 +13,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 
 ---
 
-## Solved Problems
+## Solved Problems  
 
 ### DSA Practice Series
 
