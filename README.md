@@ -9,7 +9,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 
 ### Repository Guide
 - [Introduction](#introduction)
-- [Solved Problems](#solved-problems)
+- [Solved Problems](#solved-problems)  
 
 ---
 
