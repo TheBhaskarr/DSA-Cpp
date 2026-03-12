@@ -34,7 +34,9 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 15:** [Reverse Words in a String](Strings/Reverse_Words_in_a_String.cpp)
 - **Day 16:** [String Compression](Strings/String_Compression.cpp)
 - **Day 17:** [Count Primes](maths/Count_Primes.cpp)
-- **Day 18:** [First Missing Positive](Arrays/First_Missing_Positive.cpp) 
+- **Day 18:** [First Missing Positive](Arrays/First_Missing_Positive.cpp)
+- **Day 19:** [Search a 2D Matrix](Binary_Search/Search_a_2D_Matrix.cpp)
+- **Day 20:** [Search a 2D Matrix II](Binary_Search/Search_a_2D_Matrix_II.cpp)
 
 ---
 
