@@ -28,6 +28,7 @@ implemented in **C++** for interview preparation.
 | 4 | [Sort Colors](Sort_Colors.cpp) | Dutch National Flag Algorithm | O(n) | O(1) |
 | 5 | [Merge Sorted Array](Merge_Sorted_Array.cpp) | Two Pointer | O(m+n) | O(1) |
 | 6 | [Next Permutation](Next_Permutation.cpp) | Array + Two Pointer | O(n) | O(1) |
+| 7 | [First Missing Positive](First_Missing_Positive.cpp) | Sorting | O(n log n) | O(1) |
 
 \* Space complexity excludes the output array.
 
