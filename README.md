@@ -20,7 +20,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 1:** [Two Sum](Arrays/Two_Sum.cpp) 
 - **Day 2:** [Product of Array Except Self](Arrays/Product_of_Array_Except_Self.cpp)  
 - **Day 3:** [Container With Most Water](Arrays/Container_With_Most_Water.cpp) 
-- **Day 4:** [Search in Rotated Sorted Array](Binary_Search/Search_in_Rotated_Sorted_Array.cpp)  
+- **Day 4:** [Search in Rotated Sorted Array](Binary_Search/Search_in_Rotated_Sorted_Array.cpp)     
 - **Day 5:** [Peak Index in a Mountain Array](Binary_Search/Peak_Index_in_a_Mountain_Array.cpp) 
 - **Day 6:** [Single Element in a Sorted Array](Binary_Search/Single_Element_in_a_Sorted_Array.cpp) 
 - **Day 7:** [Aggressive Cows](Binary_Search/Aggressive_Cows.cpp) 
