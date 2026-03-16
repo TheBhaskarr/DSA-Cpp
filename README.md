@@ -38,7 +38,7 @@ If you find this repository helpful, please consider leaving a ⭐ **star** ⭐.
 - **Day 19:** [Search a 2D Matrix](Binary_Search/search_2d_matrix.cpp)
 - **Day 20:** [Search a 2D Matrix II](Binary_Search/search-a-2d-matrix-ii.cpp)
 - **Day 21:** [Spiral Matrix](Arrays/Spiral_Matrix.cpp)
-- **Day 22:** [Find the Duplicate Number](Arrays/Find_the_Duplicate_Number.cpp)
+- **Day 22:** [Find the Duplicate Number](Arrays/Find_the_Duplicate_Number.cpp)    
 
 ---
 
